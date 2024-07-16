@@ -106,3 +106,6 @@ Follow these steps to package, upload and publish the plugin:
 3. Create a pull request against [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) to make the plugin accessible to Nextflow.
     
     Use the `json` file created in previous steps
+
+
+- test commit
